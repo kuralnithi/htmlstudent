@@ -1,0 +1,22 @@
+ol{
+  display: flex;
+  border-radius: 8px;
+  text-wrap: wrap;
+  flex-direction: column;
+  background-color: #FCDEDC;
+  gap: 10px;
+  font-size: 15px;
+  padding: 30px;
+  font-weight: 500;
+}
+ul{
+  display: flex;
+  border-radius: 8px;
+  text-wrap: wrap;
+  flex-direction: column;
+  background-color: #FCDEDC;
+  gap: 10px;
+  font-size: 15px;
+  padding: 30px;
+  font-weight: 500;
+}
